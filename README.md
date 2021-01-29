@@ -31,3 +31,8 @@ _**my self iam lalitha**_
 > Hi
 >> how r u?
 >>> my self iam ammu
+## TABLE
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
