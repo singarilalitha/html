@@ -36,3 +36,11 @@ _**my self iam lalitha**_
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+## FENCED CODE BLOCK
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
