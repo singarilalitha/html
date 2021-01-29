@@ -17,3 +17,9 @@ _**my self iam lalitha**_
 3. CSE
     1. CSE-A
     2. CSE-B
+## UNORDER LIST
+* CSE
+* EEE
+* CIVIL
+    * YEAR-1
+    * YEAR-2
