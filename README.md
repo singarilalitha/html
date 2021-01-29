@@ -21,5 +21,5 @@ _**my self iam lalitha**_
 * CSE
 * EEE
 * CIVIL
-    * YEAR-1
-    * YEAR-2
+    1. YEAR-1
+    2. YEAR-2
